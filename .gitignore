@@ -15,3 +15,5 @@ typings
 
 ngfactory
 *.metadata.json
+
+.idea
